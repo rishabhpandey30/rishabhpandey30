@@ -64,7 +64,7 @@ Hi there! I’m **Rishabh Pandey**, a passionate coder and data science student 
 ## 🤗 Let’s Connect!
 
 - 🌐 [Portfolio Website](https://github.com/rishabhpandey30/Portfolio)
-- 📫 Email: [Your Email Here]
+- 📫 Email: [rishabhpandey3011@gmail.com]
 
 ---
 
