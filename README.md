@@ -1,6 +1,6 @@
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Rishabh+Pandey!%F0%9F%9A%80">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Rishabh+Pandey!">
 </p>
 
 <p align="center">
