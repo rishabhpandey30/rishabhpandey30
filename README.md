@@ -1,74 +1,132 @@
-# 🚀 Rishabh Pandey | Data Science Student & Coder
+<!-- Typing SVG Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Rishabh+Pandey!;Data+Science+Student+%7C+Coder;Turning+Curiosity+into+Code+%F0%9F%9A%80">
+</p>
 
-**Building, Learning, Inspiring — One Line of Code at a Time.**  
-*“Code is the canvas, data the paint, curiosity the brush.”*
-
----
-
-## 👋 About Me
-
-Hi there! I’m **Rishabh Pandey**, a passionate coder and data science student on a mission to turn ideas into impactful technology. My GitHub is not just a collection of repositories—it’s a living portfolio of my growth, curiosity, and commitment to innovation.
-
-- 💡 **Innovator:** I love exploring new tech, frameworks, and creative solutions.
-- 📊 **Data Enthusiast:** Diving deep into data to solve real-world problems and discover patterns.
-- 🔥 **Open Source Advocate:** I believe in sharing knowledge, collaborating, and building together.
-- 🌱 **Lifelong Learner:** Every project is a new adventure—every bug, a lesson.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishabhpandey30&label=Profile+Views&color=orange&style=plastic" alt="profile-views"/>
+</p>
 
 ---
 
-## 🌟 Motivating Quotes
+## 🧠 About Me
 
-> “Dream big, start small, but most of all, start.”  
-> “The best way to predict the future is to create it.”  
-> “Success is not just about coding, but about the courage to keep going.”
+Hi, I'm **Rishabh Pandey**, a data science student and coder, thriving on the thrill of discovery and the pursuit of innovation.  
+What started as simple curiosity has evolved into a passionate journey — transforming ideas into impactful projects, one line of code at a time.
 
----
-
-## 📈 My GitHub Status & Activity
-
-![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhpandey30&show_icons=true&theme=merko)
-![Rishabh's GitHub Streak](https://streak-stats.demolab.com?user=rishabhpandey30&theme=merko)
-![Rishabh's Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhpandey30&theme=github_dark)
+🔍 I'm fascinated by data, AI, and the endless possibilities of intelligent systems.  
+💡 I believe in building tools that matter, sharing knowledge, and learning through collaboration.
 
 ---
 
-## 🏆 Achievements
+## 🛠️ Tech Stack & Tools
 
-- 🌐 **Portfolio Website:** Created and maintained my own digital showcase.
-- 🛠️ **Habit Tracker:** Built tools to boost productivity and self-improvement.
-- 🤝 **Collaborative Platforms:** Developed spaces for peer learning and teamwork.
-- 🧩 **Cryptography Explorer:** Solved and created practice problems for cipher enthusiasts.
-- 💬 **Community Contributor:** Regularly contribute, review, and collaborate on open-source projects.
-
----
-
-## 🔝 Top Repositories
-
-- [Portfolio](https://github.com/rishabhpandey30/Portfolio) — My personal website and digital resume.
-- [Daily-Habit-Tracker](https://github.com/rishabhpandey30/Daily-Habit-Tracker) — Productivity tracker for daily habits.
-- [StudySync](https://github.com/rishabhpandey30/StudySync) — Collaborative study and resource platform.
-- [cipher-practice-question](https://github.com/rishabhpandey30/cipher-practice-question) — Cryptography practice and solutions.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 🎯 My Interests
+## 💼 What I'm Working On
 
-- **Data Science & Machine Learning:** Analyzing, modeling, and visualizing data for insight and impact.
-- **Web Development:** Designing interactive, user-friendly websites and apps.
-- **Automation:** Building tools to simplify life and work.
-- **Problem Solving:** Tackling challenges through creative code and collaboration.
-- **Community Building:** Sharing, mentoring, and growing with fellow developers.
+🧩 Building data-driven apps & dashboards  
+🧠 Exploring machine learning, AI agents & transformer models  
+💻 Creating React & Next.js projects  
+📘 Studying system design, DSA & backend integration
 
 ---
 
-## 🤗 Let’s Connect!
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabhpandey30&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=rishabhpandey30&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📊 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhpandey30&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rishabhpandey30&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhpandey30&theme=radical"/>
+</p>
+
+---
+
+## 🔥 Achievements
+
+- 🌐 Launched [Portfolio Website](https://github.com/rishabhpandey30/Portfolio)
+- 🛠️ Built [Daily Habit Tracker](https://github.com/rishabhpandey30/Daily-Habit-Tracker) for productivity
+- 🤝 Created [StudySync](https://github.com/rishabhpandey30/StudySync), a collaborative study platform
+- 🧩 Developed [Cipher Practice Questions](https://github.com/rishabhpandey30/cipher-practice-question) for cryptography learners
+
+---
+
+## 📚 Top Repositories
+
+- [Portfolio](https://github.com/rishabhpandey30/Portfolio) — My digital showcase
+- [Daily-Habit-Tracker](https://github.com/rishabhpandey30/Daily-Habit-Tracker) — Habit tracking app
+- [StudySync](https://github.com/rishabhpandey30/StudySync) — Collaborative study app
+- [cipher-practice-question](https://github.com/rishabhpandey30/cipher-practice-question) — Cryptography practice
+
+---
+
+## 🎯 Interests
+
+- **Data Science & Machine Learning:** Extracting insights, modeling, and visualizing data
+- **Web Development:** Interactive web apps with React, Next.js, and more
+- **Automation:** Building tools for efficiency and productivity
+- **Problem Solving:** Tackling challenges with code and creativity
+- **Community:** Documenting, sharing, and collaborating with fellow learners
+
+---
+
+## 💬 Quotes That Drive Me
+
+> “You don’t have to be great to start, but you have to start to be great.” – Zig Ziglar  
+> “Code is the language of possibility.”  
+> “Curiosity is the spark behind every great idea.”
+
+---
+
+## 📌 Bonus: Fun Stats
+
+- 🧠 Random Dev Quote:  
+  > “The best error message is the one that never shows up.”
+- ⭐ If you like my work, drop a star or connect — let’s create something amazing together!
+
+---
+
+## 🔗 Connect With Me
 
 - 🌐 [Portfolio Website](https://github.com/rishabhpandey30/Portfolio)
-- 📫 Email: [rishabhpandey3011@gmail.com]
+- 📫 Email: [Your Email Here]
+- 💬 Let’s chat, collaborate, and innovate!
 
 ---
 
-**Thanks for visiting!**  
-Feel free to fork, star, or reach out for collaboration.  
-Let’s embark on this coding journey together!  
-*“Every keystroke is a step towards shaping the future.”*
+<p align="center">
+  <b>Thanks for visiting!</b><br>
+  <i>Every keystroke is a step forward in the journey of learning and creating.</i>
+</p>
