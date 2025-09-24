@@ -3,7 +3,7 @@
 <h3 align="center">🧠 Data Science Student | 💡 Innovator | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi+there!;I+love+AI+and+Data!;Building+tools+that+matter!;React%2C+Next.js+and+Python+fan!&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi+there!;Building+tools+that+matter!;React%2C+Next.js+and+Python+fan!&center=true&width=500&height=50" alt="Typing SVG" />
 </p>
 
 ---
