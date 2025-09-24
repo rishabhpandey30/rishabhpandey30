@@ -59,7 +59,10 @@ What started as simple curiosity has evolved into a passionate journey — trans
 </p>
 
 ---
+## 🐍 Contribution Snake
 
+![github-contribution-grid-snake](https://github.com/rishabhpandey30/rishabhpandey30/raw/output/github-contribution-grid-snake.svg)
+---
 ## 📊 Top Languages
 
 <p align="center">
