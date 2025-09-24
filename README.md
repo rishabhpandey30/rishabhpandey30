@@ -131,7 +131,7 @@ What started as simple curiosity has evolved into a passionate journey — trans
 
 ## 🔗 Connect With Me
 
-- 🌐 **Portfolio Website**: [rishabhpandey30.github.io/Portfolio](https://rishabhpandey30.github.io/Portfolio)
+- 🌐 **Portfolio Website**: [rishabhpandey30.github.io/Portfolio](https://github.com/rishabhpandey30/Portfolio)
 - 📫 **Email**: [rishabhpandey3011@gmail.com](mailto:rishabhpandey3011@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/rishabhpandey30](https://www.linkedin.com/in/rishabhpandey30)
 
