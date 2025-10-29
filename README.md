@@ -28,7 +28,7 @@ What started as simple curiosity has evolved into a passionate journey — trans
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,js,ts,react,next,nodejs,cpp,java,vercel,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,next,nodejs,cpp,java,vercel,git,html,css,jupyter" />
 </p>
 
 ---
