@@ -96,7 +96,6 @@ What started as simple curiosity has evolved into a passionate journey — trans
 - [**Portfolio**](https://github.com/rishabhpandey30/Portfolio) — My digital showcase
 - [**Daily-Habit-Tracker**](https://github.com/rishabhpandey30/Daily-Habit-Tracker) — Habit tracking app
 - [**StudySync**](https://github.com/rishabhpandey30/StudySync) — Collaborative study app
-- [**cipher-practice-question**](https://github.com/rishabhpandey30/cipher-practice-question) — Cryptography practice
 
 ---
 
