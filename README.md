@@ -38,7 +38,7 @@ I’m Rishabh — a data science student who builds practical tools and web apps
 
 ## Selected Projects
 - Portfolio — My personal site and project showcase  
-  https://rishabhpandey30.github.io/Portfolio
+  [https://rishabhpandey30.github.io/Portfolio](https://github.com/rishabhpandey30/Portfolio)
 - Daily-Habit-Tracker — Productivity app to build consistent habits  
   https://github.com/rishabhpandey30/Daily-Habit-Tracker
 - StudySync — Collaborative study & note-sharing platform  
@@ -51,7 +51,7 @@ I’m Rishabh — a data science student who builds practical tools and web apps
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishabhpandey30&show_icons=true&theme=tokyonight&border_radius=10" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhpandey30&layout=compact&theme=tokyonight&border_radius=10" width="48%" alt="Top languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhpandey30&theme=react-dark&area=true&hide_border=true" width="48%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ I’m Rishabh — a data science student who builds practical tools and web apps
 I’m open to collaboration, internships, and project opportunities.  
 - Email: [rishabhpandey3011@gmail.com](mailto:rishabhpandey3011@gmail.com)  
 - LinkedIn: [linkedin.com/in/rishabhpandey30](https://www.linkedin.com/in/rishabhpandey30)  
-- Portfolio: https://rishabhpandey30.github.io/Portfolio
+- Portfolio: [https://rishabhpandey-portfolio](https://rishabhpandey-portfolio-web.vercel.app/)
 
 If you'd like to chat about a project or opportunity — send a quick email or link to a calendar and I’ll respond.
 
