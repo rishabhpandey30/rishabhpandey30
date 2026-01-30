@@ -50,13 +50,11 @@ I’m Rishabh — a data science student who builds practical tools and web apps
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhpandey30&show_icons=true&theme=tokyonight&border_radius=10" width="48%" alt="GitHub stats" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhpandey30&theme=react-dark&area=true&hide_border=true" width="48%" alt="Contribution Graph" />
 </p>
-
+<br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhpandey30&theme=tokyonight" width="48%" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabhpandey30&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 
 ---
