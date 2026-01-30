@@ -50,7 +50,7 @@ I’m Rishabh — a data science student who builds practical tools and web apps
 
 ## GitHub Stats
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhpandey30&theme=react-dark&area=true&hide_border=true" width="48%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhpandey30&theme=react-dark&area=true&hide_border=true" height="50%" width="50%" alt="Contribution Graph" />
 </p>
 <br>
 <p align="center">
