@@ -57,7 +57,31 @@ I’m Rishabh — a data science student who builds practical tools and web apps
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhpandey30&theme=tokyonight" width="48%" alt="GitHub Streak" />
 </p>
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabhpandey30&show_icons=true&theme=tokyonight&border_radius=10" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhpandey30&layout=compact&theme=tokyonight&border_radius=10" width="49.5%" />
+</p>
+
 ---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhpandey30&theme=tokyonight" width="48%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhpandey30&theme=github_dark" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhpandey30&theme=react-dark&area=true&hide_border=true" />
+</p>
+---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rishabhpandey30&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+</p>
 
 ## Achievements & Highlights
 - Launched a personal portfolio to showcase projects and case studies
