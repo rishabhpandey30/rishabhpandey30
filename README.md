@@ -51,6 +51,10 @@ I’m Rishabh — a data science student who builds practical tools and web apps
 ## GitHub Stats
 
 <p align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/rishabhpandey30?cardType=level-alternate&theme=onedark&preferLogin=false" alt="My Awesome Stats" width="495" height="195" />
+  </a>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=rishabhpandey30&show_icons=true&theme=tokyonight&border_radius=10" width="49.5%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhpandey30&layout=compact&theme=tokyonight&border_radius=10" width="49.5%" />
 </p>
