@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rishabhpandey-portfolio-web.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" /></a>
+  <a href="https://rishabhpandey.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" /></a>
   <a href="mailto:rishabhpandey3011@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rishabhpandey3011%40gmail.com-cyan?style=for-the-badge&logo=gmail" /></a>
 </p>
 
